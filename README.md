@@ -7,7 +7,6 @@ mysql+redis
 
 ## 演示
 
-![1](./demo/1.png)
 
 ![1](./demo/2.png)
 
